@@ -1,6 +1,7 @@
 # What is this?!
 
-My fun and practice! Smaller projects that don't quite deserve their own space, but just fun enough I'd like to put them up here.
+My fun and practice! Smaller projects that don't quite deserve their own space, but just fun enough I'd like to put 
+them up here.
 
 Currently my projects include:
 
@@ -10,3 +11,9 @@ Currently my projects include:
 
      __|^|__
      (｡^‿^｡)
+
+2) Java Sushi Game
+    play to be the top chef of a sushi contest! 
+    written in Java, using MVC
+    
+    (*^◇^)_旦
